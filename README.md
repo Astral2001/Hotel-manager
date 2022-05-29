@@ -1,7 +1,7 @@
 # Hotel-manager
 ## Thành viên trong nhóm:
-- Thi Linh Hào
-- Trần Minh Hoàn
+- Thi Linh Hào - B19DCCN223
+- Trần Minh Hoàn - B19DCCN271
 - Lại An Nguyên - B19DCCN475
 
 ## Đóng góp công việc
