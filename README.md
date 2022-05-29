@@ -6,7 +6,7 @@
 
 ## Đóng góp công việc
 ### Thi Linh Hào - Leader
-- Xây dựng các lớp thực thể hotel.entity, thiết kế chức năng của AdminUser và common users
+- Xây dựng các lớp thực thể hotel.entity, thiết kế chức năng của AdminUser
 
 ### Trần Minh Hoàn
 - Tạo các lớp truy vấn cơ sở dữ liệu từ mySQL sử dụng JPA.
@@ -14,3 +14,4 @@
 
 ### Lại An Nguyên
 - Xậy dựng các chức năng HotelReservation chính cho trang web (CRUD).
+- Xây dựng chức năng cho người dùng thông thưởng
